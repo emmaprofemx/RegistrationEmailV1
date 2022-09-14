@@ -7,6 +7,6 @@
     <title>Registro</title>
 </head>
 <body>
-    
+<h3>Registrarse</h3>
 </body>
 </html>
